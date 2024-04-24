@@ -14,4 +14,6 @@ Additionally, I also have uploaded the datasets (Training and Testing) being emp
 
 I uploaded the training data file after compressing it because it is more than 25MB. GitHub free version might not support files over 25MBs.
 
+This work does not belong to any specific task from school or company. The purpose of this work is just to understand how to work with data and solve some real-world problems.
+
 Thanks.

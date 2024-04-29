@@ -1,19 +1,7 @@
-# Resource_mng-Health-Care
-This repository contains an ML-based model for resource management in health care, especially in the overwhelming patient COVID-19 situation.
+# Google_Teachable_Machine_Radiography_Problem
 
-I am also going to attach complete documents that will answer like:
-1. Why I have implemented this solution?
-2. Who will be the users of the proposed work?
-3. How we could utilize the ML and Data Mining techniques to solve such issues.
-4. How we utilize the dataset to solve the underlying problem.
+In this tutorial, I have solved a problem of supervised learning classification on an image dataset to recognize the disease from X-ray images. The motivation behind this is learn already available technologies and how artificial intelligence solves computer vision problems. I have also exported both models (binary class and multi-class) to use for further processes and share on some online repositories. These models also help the radiographers to access the X-ray images to identify the disease, especially during the overwhelming situation in hospitals like COVID-19.
 
-
-Additionally, I also have uploaded the datasets (Training and Testing) being employed for this work. This is the publically available dataset. 
-
-
-
-I uploaded the training data file after compressing it because it is more than 25MB. GitHub free version might not support files over 25MBs.
-
-This work does not belong to any specific task from school or company. The purpose of this work is just to understand how to work with data and solve some real-world problems.
+This work does not belong to any specific task from school or company. This work aims to learn machine learning from already developed systems.
 
 Thanks.
